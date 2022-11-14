@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning DRF , Python
-- 🤔 I’m looking for help with contribut on open sourec projects
+- 🤔 I'm looking for help with contributing to open-source projects.
 - 📫 How to reach me: https://www.linkedin.com/in/elham-nouri/
